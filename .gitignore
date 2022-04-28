@@ -55,6 +55,7 @@ cover.out
 # Hugo compiled data
 docs/site/public
 docs/site/resources
+docs/site/content/docs/edge
 
 .vs
 .idea

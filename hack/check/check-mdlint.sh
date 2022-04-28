@@ -19,5 +19,6 @@ docker run --rm -v "$(pwd)":/build \
   -i docs/site/public/fonts \
   -i docs/site/content/plugins \
   -i docs/site/content/docs/assets \
+  -i docs/site/content/docs/edge \
   -i docs/site/content/contributors \
   -i LICENSE .
